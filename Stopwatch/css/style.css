@@ -1,0 +1,43 @@
+body{
+    background-color: violet;
+
+}
+
+.container{
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    height: 70vh;
+    width: 50vh;
+    margin: auto;
+}
+.btn{
+    padding: 4px 8px;
+    background-color: wheat;
+    border-radius: 4px;
+    font-size: large;
+    border: solid 1px;
+    text-decoration:none;
+    cursor:pointer;
+    padding:8px 10px;
+    margin: 10px;
+}
+
+.counter{
+    font-size: 100px;
+}
+
+@media only screen and (min-width: 768px) {
+    .container{
+        border: 2px white black;
+        border-radius: 10px;
+        padding-bottom: 10px;
+        height: 50vh;
+        width: 30vh;
+        margin: auto;
+    }
+}

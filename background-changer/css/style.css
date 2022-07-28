@@ -1,0 +1,21 @@
+.container{
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    height: 70vh;
+    width: 50vh;
+    margin: auto;
+}
+
+.btn{
+    margin: auto;
+    padding: 4px 8px;
+    background-color: wheat;
+    border-radius: 4px;
+    font-size: large;
+    justify-content: center;
+    align-items: center;
+}
