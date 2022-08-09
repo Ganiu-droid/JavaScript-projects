@@ -1,22 +1,25 @@
-.container{
-
+.container, .generate-btn{
     align-items: center;
     justify-content: center;
     text-align: center;
     border-radius: 10px;
-    padding-bottom: 10px;
-    height: 70vh;
-    width: 50vh;
+    /* padding-bottom: 10px; */
+    /* height: 60vh;
+    width: 70vh; */
     margin: auto;
 }
+.generate-btn{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 
-.btn{
-    margin: 12em 0 0 0;
+}
+/* .btn{
+    margin: auto;
     padding: 4px 8px;
     background-color: wheat;
     border-radius: 4px;
     font-size: large;
     justify-content: center;
     align-items: center;
-
-}
+} */

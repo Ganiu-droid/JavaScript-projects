@@ -1,0 +1,28 @@
+
+Project 1/30
+
+Project Description
+This project is simple  couter app created with HTML, CSS (BOOTSTRAP included) and JAVASCRIPT. 
+The JavaScript aspect basically involves creating an array of different colours. I used the Math.random() JS method to randomly select a color from the array each time the button is clicked
+Viola! Thats all!
+
+Hosted Project
+JavaScript Background Changer (Hosted on GitHub Pages)
+
+Source Files
+https://github.com/ (Hosted on Github)
+
+Project Objective
+The objective of this JavaScript Project to practice the following:
+
+DOM manipulation
+-addEventlistener()
+-querySelector()
+-element.style.backgroundColor
+Math.random() method
+Array manipulation
+
+Time spent on code:
+30 minutes
+Personalized Summary
+I used this Javascript project to watch my understanding of array manipulation. 
